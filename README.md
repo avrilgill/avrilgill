@@ -1,0 +1,13 @@
+- 👋 Hi, I’m Avril
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Things to consider while working on a project or learning a new topic:
+1. Time is important, use it wisely ⏳
+2. Concentrate on a single topic and then work with problem variations 
+3. Consistency is the key 🔑
+4. Learn what you like, clear the basics and you are good to go for most of the platforms.
+--->
