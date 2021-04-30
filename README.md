@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avril
-- 👀 I’m in ❤️ with Java
+- 👀 Technologies: Java, C, Spring Boot, SQL, NoSQl
 - 🌱 I’m currently learning Spring Framework
 
 
