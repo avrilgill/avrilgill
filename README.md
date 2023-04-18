@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Avril
-- 👀 Technologies: Java, C, Spring Boot, SQL, NoSQl
-- 🌱 I’m currently learning Spring Framework
+**Languages:** Python, C++, C#, Kotlin, JavaScript, HTML, CSS, SQL
+
+**Technologies/Frameworks/Tools:** React, Node.js, AWS, Google Cloud, TeamCity, Docker, Firebase, DynamoDB, Git
 
 
 ## Things I personally consider while working on a project or learning a new topic:
